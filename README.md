@@ -1,4 +1,4 @@
-# Consulta-de-doencas - Lab. de Engenharia de Software
+# Consulta-de-doencas - Lab. Engenharia de Software
 
 Aluno: Kelvin Wellington Ribeiro Mora<br>
 RA: 1460481711090 <br>
